@@ -1,3 +1,2 @@
 print ('hello world')
 print(1 + 1)
-print ('dudu é gay')
